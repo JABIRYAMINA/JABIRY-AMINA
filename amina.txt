@@ -1,0 +1,7 @@
+les comandes sont:
+mkdir
+cd
+pwd
+ls
+touch
+nano
